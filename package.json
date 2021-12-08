@@ -1,0 +1,22 @@
+{
+   "name": "business",
+   "version": "1.0.0",
+   "description": "Business Website Template",
+   "main": "index.js",
+   "scripts": {
+      "deploy": "gh-pages -d ./"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/p-dinesh/Business.git"
+   },
+   "author": "Dinesh P",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/p-dinesh/Business/issues"
+   },
+   "homepage": "https://p-dinesh.github.io/Business",
+   "dependencies": {
+      "gh-pages": "^3.2.3"
+   }
+}
